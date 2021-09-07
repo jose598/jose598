@@ -6,7 +6,7 @@
 ### <img src="https://www.encuentos.com/wp-content/uploads/2015/06/raton-ton-ton-1.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const jose598 = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, Clojure, C#, C/C++],
   tools: [React, Redux, Node, AWS, Kubernetes, Azure, Docker],
