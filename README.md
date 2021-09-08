@@ -1,5 +1,5 @@
 <h2> Hi, I'm Francisco Morales</h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/51379487?s=400&u=472553d9d48c837a31a4657637a9371175856403&v=4" width="230">
+<img align='right' src="https://c.tenor.com/fG-pVMzin7EAAAAM/aplauso-aplausos.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">DatilMedia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning new technologies <a href="https://www.thoughtworks.com">about AWS, AI and focus on functional languages</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -19,7 +19,5 @@ const jose598 = {
  challenge: "I'd like to build things but I love manage it."
 }
 ```
-
-<img src="https://c.tenor.com/fG-pVMzin7EAAAAM/aplauso-aplausos.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
